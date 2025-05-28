@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_tutorial/Common/Color_const.dart';
-import 'package:flutter_tutorial/Views/DateandTimeScreen.dart';
 import 'package:flutter_tutorial/Views/HomeScreen.dart';
 import 'package:flutter_tutorial/Views/LoginScreen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
