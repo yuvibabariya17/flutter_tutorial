@@ -72,7 +72,7 @@ class _CrossFadeAnimationScreenState extends State<CrossFadeAnimationScreen> {
                 setState(() {
                   reload();
                 });
-              },
+              },    
               child: Container(
                 height: 4.h,
                 width: 20.w,
