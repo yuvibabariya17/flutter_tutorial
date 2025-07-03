@@ -28,8 +28,8 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: white,
       body: Center(
         child: Text(
-          "Flutter Tutorial",     
-          style: TextStyle(color: black, fontSize: 15.sp),
+          "Flutter Tutorial",
+          style: TextStyle(color: black, fontSize: 15),
         ),
       ),
     );
