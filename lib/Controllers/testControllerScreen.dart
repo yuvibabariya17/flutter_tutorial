@@ -12,13 +12,13 @@ class Testcontrollerscreen extends GetxController {
   var password = ''.obs;
   var confirmPassword = ''.obs;
 
-  // @override
-  // void onInit() {
-  //   super.onInit();
+  @override
+  void onInit() {
+    super.onInit();
 
-  //   nameCtr = TextEditingController();
-  //   phoneCtr = TextEditingController();
-  //   passCtr = TextEditingController();
-  //   confirmCtr = TextEditingController();
-  // }
+    nameCtr = TextEditingController();
+    phoneCtr = TextEditingController();
+    passCtr = TextEditingController();
+    confirmCtr = TextEditingController();
+  }
 }
